@@ -158,7 +158,3 @@ rnns/
 - **LSTM** became the gold standard for sequence modeling
 - Each architecture built upon previous innovations
 - The evolution continues with modern architectures like Transformers and SSMs
-
----
-
-*This implementation serves as an educational journey through the history of RNNs, showing how each innovation addressed specific limitations of its predecessors.*
